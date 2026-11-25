@@ -1,0 +1,2 @@
+bash
+osascript -e 'display dialog "test" buttons {"OK"} default button "OK"'
